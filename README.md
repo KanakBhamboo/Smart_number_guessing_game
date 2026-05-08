@@ -1,2 +1,12 @@
-# Smart_number_guessing_game
-Python number guesing game with smart hints!!
+# Smart Number Guessing Game
+
+A Python-based number guessing game with smart hints.
+
+## Features
+- Random number generation
+- Smart hints
+- Higher/Lower guidance
+- Interactive gameplay
+
+## Technologies Used
+- Python 
